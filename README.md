@@ -117,10 +117,3 @@ My request: "Make a 10-second video of drones forming the word 'Hello' over Mari
 * **If using one-turn prompting**, explicitly say “Step 1 … Step 2 … Step 3” so the model doesn’t skip the JSON stage.
 
 ---
-
-If you want, I can make you **one master “meta-prompt”** that works in GPT, Claude, and Gemini — you paste *any* normal prompt and it automatically:
-
-1. Creates JSON based on whether it’s text, image, or video
-2. Immediately uses it to give the final result.
-
-Do you want me to make that master version? That way you won’t need to remember the steps.
